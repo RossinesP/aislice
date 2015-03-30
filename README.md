@@ -4,8 +4,8 @@ aislice
 
 Overview
 --------
-aislice is a batch export script for iOS developer who uses Adobe Illustrator.
-This script find all slices contained in the active document and exports them at multiple resolutions (non-Retina and Retina).
+aislice is a batch export script for Android developer who uses Adobe Illustrator.
+This script find all slices contained in the active document and exports them at multiple resolutions (ldpi to xxxhdpi)
 
 
 System Requirements
